@@ -1,0 +1,159 @@
+body{
+
+  background-color: #212529;
+  color: #4CC9F0;
+
+}
+
+.nav-link{
+  color: #e9ecef;
+}
+
+.nav-link:hover{
+
+  color:#4CC9F0
+
+}
+
+
+
+.section{
+  width: 100%;
+  text-align: center;
+
+}
+
+.SectionTitle{
+
+  text-align: center;
+
+}
+
+
+.card{
+  margin: 50px;
+  min-height: 75vh;
+
+}
+
+section{
+  min-height:100vh;
+}
+
+#AboutInfo{
+
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+
+
+}
+
+
+h3{
+  text-align: center;
+  height:5vh
+}
+
+h2{
+  text-align: center;
+}
+
+.altSection{
+
+  background-color: #f72585
+
+}
+
+.altSection h2{
+
+  color: black
+
+}
+
+.game-section{
+
+  height: 100vh;
+
+
+}
+
+.game-section .card{
+
+  background-color: #2c2f36
+
+}
+
+.skills{
+
+  text-align: center;
+  margin: 50px;
+  color: black
+
+}
+
+.skillTag{
+
+  margin:0px;
+  margin-right: 20px;
+  height: 5vh;
+  float: left;
+  width: 10vw
+
+
+}
+
+.SkillLevel{
+  margin: 50px;
+
+}
+
+.progress{
+  height: 5vh
+}
+
+.progress-bar{
+
+  background-color: black;
+
+}
+
+.col{
+
+  background-color: white;
+  height:40vh;
+  text-align: center;
+  margin: 10px
+
+}
+
+.col p{
+
+  margin: auto;
+  height: 100%
+
+}
+
+.GameDescription{
+
+  color: white
+
+}
+
+#profile{
+
+
+  margin-top:50px;
+  border-radius: 100px;
+  width: 10%;
+  height:10%;
+
+
+}
+
+.card img{
+
+  height: 35%;
+
+}
