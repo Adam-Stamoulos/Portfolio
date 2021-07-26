@@ -26,6 +26,13 @@ body{
 
 }
 
+#webSec{
+
+  padding-top: 30px;
+  text-align: center;
+
+}
+
 .SectionTitle{
 
   text-align: center;
@@ -105,7 +112,7 @@ section{
 
 #social i{
 
-  
+
 
 }
 
